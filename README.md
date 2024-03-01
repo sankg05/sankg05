@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sankg05.sankg05&left_color=pink&right_color=purple) 
+
 ### Hi there 👋
 
 <!--
